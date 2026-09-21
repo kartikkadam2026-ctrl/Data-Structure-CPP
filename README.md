@@ -54,3 +54,41 @@ enter 6 customer account ID's:
 enter customer account ID's to search:109,
 
  [Linear Search] ID 109 not found.
+
+
+ ### BINARY SEARCH
+ ### OUTPUT
+ ### FOUND CASE
+ Enter number of customer account ID's8,
+Enter 8 customer account ID's:
+103,
+101,
+104,
+108,
+105,
+100,
+106,
+109,
+
+Sorted list of ID's:100 101 103 104 105 106 108 109,
+Enter coutomer account ID to search:105,
+
+[Binary Search] ID105 found at index4 (in sorted list).
+
+### NOT FOUND CASE
+Enter number of customer account ID's8,
+Enter 8 customer account ID's:
+101,
+100,
+106,
+104,
+108,
+102,
+111,
+109,
+
+Sorted list of ID's:100 101 102 104 106 108 109 111,
+Enter coutomer account ID to search:103,
+
+[Binary Search] ID103 not found.
+
