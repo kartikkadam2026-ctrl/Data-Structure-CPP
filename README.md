@@ -56,7 +56,7 @@ enter customer account ID's to search:109,
  [Linear Search] ID 109 not found.
 
 
- ### BINARY SEARCH
+ ### 3.  BINARY SEARCH
  ### OUTPUT
  ### FOUND CASE
  Enter number of customer account ID's8,
@@ -91,4 +91,21 @@ Sorted list of ID's:100 101 102 104 106 108 109 111,
 Enter coutomer account ID to search:103,
 
 [Binary Search] ID103 not found.
+
+### 4. BUBBLE SORT :
+### OUTPUT :
+Enter the number employeesL: 8,
+Enter the salary of :
+1 employee :102,
+2 employee :105,
+3 employee :101,
+4 employee :109,
+5 employee :107,
+6 employee :108,
+7 employee :111,
+8 employee :112,
+Sorted salaries are(by bubble sort):
+101 102 105 107 108 109 111 112   ,
+Top 5 salaries are: 112 111 109 108 107. 
+
 
