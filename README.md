@@ -108,7 +108,7 @@ Sorted salaries are(by bubble sort):
 101 102 105 107 108 109 111 112   ,
 Top 5 salaries are: 112 111 109 108 107. 
 
-### SELECTION SORT :
+### 5. SELECTION SORT :
 ### OUTPUT :
 Enter the number of employees: 8,
 Enter the salary of :
