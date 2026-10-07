@@ -125,3 +125,81 @@ Sorted salaries are(by selection sort):
 Top 5 salaries are: 117 111 109 107 106. 
 
 
+### 6. STACK :
+### OUTPUT :
+=== Real - Time undo/Redo Text Editor (Stack - based) ===  ,
+
+Current Document: "" ,,
+
+1. Make a Change,
+2. Undo Action,
+3. Redo Action,
+4. Display Document State,
+5. Exit,
+Enter choice: 1,
+Enter text to add: HELLO,  
+Chnage made successfully.
+
+Current Document: "HELLO"  ,,
+
+1. Make a Change,
+2. Undo Action,
+3. Redo Action,
+4. Display Document State,
+5. Exit,
+Enter choice: 1,
+Enter text to add:  WORLD,
+Chnage made successfully.
+
+Current Document: "HELLO WORLD"  ,,
+
+1. Make a Change,
+2. Undo Action,
+3. Redo Action,
+4. Display Document State,
+5. Exit,
+Enter choice: 2,
+Undo successful.
+
+Current Document: "HELLO"  ,,
+
+1. Make a Change,
+2. Undo Action,
+3. Redo Action,
+4. Display Document State,
+5. Exit,
+Enter choice: 3,
+Redo successful.
+
+Current Document: "HELLO WORLD"  ,,
+
+1. Make a Change,
+2. Undo Action,
+3. Redo Action,
+4. Display Document State,
+5. Exit,
+Enter choice: 2,
+Undo successful.
+
+Current Document: "HELLO"  ,,
+
+1. Make a Change,
+2. Undo Action,
+3. Redo Action,
+4. Display Document State,
+5. Exit,
+Enter choice: 1,
+Enter text to add: ! ,
+Chnage made successfully.
+
+Current Document: "HELLO!"  ,,
+
+1. Make a Change,
+2. Undo Action,
+3. Redo Action,
+4. Display Document State,
+5. Exit,
+Enter choice: 5,
+Existing the Editor...
+
+
